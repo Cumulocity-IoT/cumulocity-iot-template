@@ -11,6 +11,10 @@ This is a template repo for Cumulocity-IoT related open-source repos at Software
  - README.md structure
  - GitHub Setting
 
+## How to use this template
+
+Click here [Use this template](https://github.com/SoftwareAG/cumulocity-iot-template/generate) to create a new repo based on this template.
+
 ## Naming the Repo
 
 * Use lower case names. Combine words with a "-". Avoid using camelCase or other separators.
@@ -102,7 +106,7 @@ Contact us at [TECHcommunity](mailto:Communities@softwareag.com?subject=Github/S
 
 ---
 
-#Github Settings
+##Github Settings
 
 There are multiple settings you can make use of in your repository.
 First of all we suggest to enable the Code Security and analysis functionality which includes a [Dependency graph](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-the-dependency-graph), [Dependabot alerts](https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts) and [Dependabot security updates](https://docs.github.com/en/code-security/dependabot/dependabot-security-updates/about-dependabot-security-updates).
