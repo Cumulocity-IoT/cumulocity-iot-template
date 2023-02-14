@@ -80,7 +80,7 @@ Also add one or multiple topics of the following categories:
 * 'extension' or 'cumulocity-extension'
 * 'documentation' or 'cumulocity-documentation'
 
-Beside that you should add additional topics like 'iot' or others matchen the content of your repo.
+Beside that you should add additional topics like 'iot' or others which match to the content of your repo.
 
 ## README structure
 
@@ -106,7 +106,7 @@ Contact us at [TECHcommunity](mailto:Communities@softwareag.com?subject=Github/S
 
 ---
 
-##Github Settings
+## Github Settings
 
 There are multiple settings you can make use of in your repository.
 First of all we suggest to enable the Code Security and analysis functionality which includes a [Dependency graph](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-the-dependency-graph), [Dependabot alerts](https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts) and [Dependabot security updates](https://docs.github.com/en/code-security/dependabot/dependabot-security-updates/about-dependabot-security-updates).
