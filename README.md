@@ -25,6 +25,13 @@ Click here [Use this template](https://github.com/SoftwareAG/cumulocity-iot-temp
 
 Please make sure that you add a meaningful description to your repo.
 
+## Sensitive data / credentials
+
+Before you publish your repository please **remove all sensitive data** like credentials from any files especially property files.
+Common credentials published are:
+* c8y.bootstrap.password - used by microservices to connect locally
+* c8y.bootstrap.user - used by microservices to connect locally
+
 ## FOSS Licensing & Copyright
 
 ### License
