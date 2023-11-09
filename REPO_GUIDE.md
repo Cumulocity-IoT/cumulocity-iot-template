@@ -5,11 +5,11 @@
 # Template for Cumulocity IoT OS Repos
 
 This is a template repo for Cumulocity-IoT related open-source repos at SoftwareAG Organization. It contains basic guidelines for
- - Naming the Repo
- - FOSS Licensing
- - Topics
- - README.md structure
- - GitHub Setting
+- Naming the Repo
+- FOSS Licensing
+- Topics
+- README.md structure
+- GitHub Setting
 
 ## How to use this template
 
@@ -25,6 +25,13 @@ Click here [Use this template](https://github.com/SoftwareAG/cumulocity-iot-temp
 
 Please make sure that you add a meaningful description to your repo.
 
+## Sensitive data / credentials
+
+Before you publish your repository please **remove all sensitive data** like credentials from any files especially property files.
+Common credentials published are:
+* c8y.bootstrap.password - used by microservices to connect locally
+* c8y.bootstrap.user - used by microservices to connect locally
+
 ## FOSS Licensing & Copyright
 
 ### License
@@ -35,7 +42,7 @@ If you don't use this template you should select the Apache License on repo crea
 
 ![img_2.png](img_2.png)
 
-If you use open-source 3rd Party Software please check the [license compatibility](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-compatibility-checker) 
+If you use open-source 3rd Party Software please check the [license compatibility](https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-compatibility-checker)
 
 ### Copyright Header
 
@@ -80,7 +87,7 @@ Also add one or multiple topics of the following categories:
 * 'extension' or 'cumulocity-extension'
 * 'documentation' or 'cumulocity-documentation'
 
-Beside that you should add additional topics like 'iot' or others matchen the content of your repo.
+Beside that you should add additional topics like 'iot' or others which match to the content of your repo.
 
 ## README structure
 
@@ -106,7 +113,7 @@ Contact us at [TECHcommunity](mailto:Communities@softwareag.com?subject=Github/S
 
 ---
 
-##Github Settings
+## Github Settings
 
 There are multiple settings you can make use of in your repository.
 First of all we suggest to enable the Code Security and analysis functionality which includes a [Dependency graph](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-the-dependency-graph), [Dependabot alerts](https://docs.github.com/en/code-security/dependabot/dependabot-alerts/about-dependabot-alerts) and [Dependabot security updates](https://docs.github.com/en/code-security/dependabot/dependabot-security-updates/about-dependabot-security-updates).
@@ -119,7 +126,3 @@ If you have any questions or suggestions regarding this template please create a
 
 ---
 # PLEASE REPLACE THE PART ABOVE WITH YOUR OWN CONTENT !!!
-
-
-
-
