@@ -4,7 +4,7 @@
 
 # Template for Cumulocity IoT OS Repos
 
-This is a template repo for Cumulocity-IoT related open-source repos at SoftwareAG Organization. It contains basic guidelines for
+This is a template repo for Cumulocity-IoT related open-source repos at Cumulocity IoT Organization. It contains basic guidelines for
 - Naming the Repo
 - FOSS Licensing
 - Topics
@@ -13,7 +13,7 @@ This is a template repo for Cumulocity-IoT related open-source repos at Software
 
 ## How to use this template
 
-Click here [Use this template](https://github.com/SoftwareAG/cumulocity-iot-template/generate) to create a new repo based on this template.
+Click here [Use this template](https://github.com/Cumulocity-IoT/cumulocity-iot-template/generate) to create a new repo based on this template.
 
 ## Naming the Repo
 
@@ -48,8 +48,7 @@ If you use open-source 3rd Party Software please check the [license compatibilit
 
 Each file that contains code from yourself should contain a copyright header in the following format:
 ````
-Copyright (c) 2022 Software AG, Darmstadt, Germany and/or Software AG USA Inc., Reston, VA, USA,
-and/or its subsidiaries and/or its affiliates and/or their licensors.
+Copyright (c) 2024 Cumulocity GmbH, Düsseldorf, Germany and/or its subsidiaries and/or its affiliates and/or their licensors.
 
 SPDX-License-Identifier: Apache-2.0
 
@@ -105,12 +104,9 @@ Please always add the following footer to your README.md
 
 ---
 
-These tools are provided as-is and without warranty or support. They do not constitute part of the Software AG product suite. Users are free to use, fork and modify them, subject to the license agreement. While Software AG welcomes contributions, we cannot guarantee to include every contribution in the master project.
+These tools are provided as-is and without warranty or support. They do not constitute part of the Cumulocity product suite. Users are free to use, fork and modify them, subject to the license agreement. While Cumulocity GmbH welcomes contributions, we cannot guarantee to include every contribution in the master project.
 
 For more information you can Ask a Question in the [TECH Community Forums](https://tech.forums.softwareag.com/tag/Cumulocity-IoT).
-
-Contact us at [TECHcommunity](mailto:Communities@softwareag.com?subject=Github/SoftwareAG) if you have any questions.
-
 ---
 
 ## Github Settings
@@ -122,7 +118,7 @@ First of all we suggest to enable the Code Security and analysis functionality w
 
 # Questions about this template
 
-If you have any questions or suggestions regarding this template please create an [issue](https://github.com/SoftwareAG/cumulocity-iot-template/issues/new)
+If you have any questions or suggestions regarding this template please create an [issue](https://github.com/Cumulocity-IoT/cumulocity-iot-template/issues/new)
 
 ---
 # PLEASE REPLACE THE PART ABOVE WITH YOUR OWN CONTENT !!!
